@@ -31,10 +31,19 @@
    
 }
 
+.section{
+    margin-top: -22px;
+     background-color: #a3bfa8;
+}
+
+.heading {
+    padding-top: 10px;
+}
+
 #container {
     display: flex;
      justify-content: center;
-    background-color: #a3bfa8;
+   
     padding-bottom: 50px;
     
 }
